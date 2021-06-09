@@ -10,10 +10,10 @@ Following is the data science pipeline:
 Business Question:
 So before we even begin the Data Science pipeline, the most crucial and important step that we must take into consideration is understanding what business problem we’re trying to solve. Let’s say this again. Before we even begin doing anything with “Data Science”, we must first take into consideration what problem we’re trying to solve. If you have a small problem you want to solve, then at most you’ll get a small solution. If you have a BIG problem to solve, then you’ll have the possibility of a BIG solution.
 
-Data Colection
+Data Colection:
 We cannot do anything as a data scientist without even having any data. As a rule of thumb, there are some things we must take into consideration when obtaining any data.We must identify all of our available datasets (which can be from the internet or external/internal databases). We must extract the data into a usable format (.csv, json, xml, etc..)
 
-Data Cleaning
+Data Cleaning:
 Clean up on column 5! This phase of the pipeline should require the most time and effort. Because the results and output of our machine learning model is only as good as what we put into it. Basically, garbage in garbage out.
 
 Objective:
@@ -23,7 +23,7 @@ Skills Required:
 Scripting language: Python, R, SAS
 Data Wrangling Tools: Python Pandas, R
 
-Exploring (Exploratory Data Analysis)
+Exploring (Exploratory Data Analysis):
 Now during the exploration phase, we try to understand what patterns and values our data has. We’ll be using different types of visualizations and statistical testings to back up our findings. This is where we will be able to derive hidden meanings behind our data through various graphs and analysis. Go out and explore!
 
 Objective:
@@ -36,7 +36,7 @@ R: GGplot2, Dplyr
 Inferential statistics
 Experimental Design Data Visualization
 
-Modeling (Machine Learning)
+Modeling (Machine Learning):
 Now comes the fun part. Models are general rules in a statistical sense.Think of a machine learning model as tools in our toolbox. We will have access to many algorithms and use them to accomplish different business goals. The better features we use the better your predictive power will be. After cleaning your data and finding what features are most important, using our model as a predictive tool will only enhance our business decision making.
 
 Objective:
